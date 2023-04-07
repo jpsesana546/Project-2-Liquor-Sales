@@ -1,5 +1,10 @@
 # Not done
 
+* category table
+* add search button
+* make it prettier
+* change button for avgs
+
 ## Table of Contents
 
 ## Introduction
@@ -8,9 +13,9 @@
 
 ### Step 1: Define your project goal and scope
 
-1.	What are the top 5 best-selling liquor types (in terms of total sales volume) across all stores in Iowa?
-2.	What are the top 5 stores in terms of total liquor sales revenue over the entire period of the dataset?
-3.	What are the top 5 vendors in terms of total liquor sales revenue over the entire period of the dataset?
+1.	What are the top 5 best-selling liquor across all stores in Iowa?
+2.	What are the top 5 stores in terms of sales revenue?
+3.	What are the top 5 vendors in terms of sales revenue?
 4.	What is the average price per unit of alcohol sold across all stores in Iowa? How does this vary by liquor type?
 5.	What is the total sales revenue and sales volume for each year in the dataset? Is there any noticeable trend in sales over time?
 6.	What is the average price per unit of alcohol sold for each liquor category (e.g. whiskey, vodka, rum, etc.)? Which category has the highest and lowest average price?
