@@ -1,17 +1,12 @@
 # Not done
 
-* category table
-* add search button
-* make it prettier
-* change button for avgs
-
 ## Table of Contents
 
 ## Introduction
 
 ## Methodology
 
-### Step 1: Define your project goal and scope
+### Step 1: Define project goal and scope
 
 1.	What are the top 5 best-selling liquor across all stores in Iowa?
 2.	What are the top 5 stores in terms of sales revenue?
