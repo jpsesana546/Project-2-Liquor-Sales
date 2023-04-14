@@ -4,11 +4,11 @@
 - [Introduction](#introduction)
 - [Data Description](#data-description)
 - [Methodology](#methodology)
-  * [Step 1: Define project goal and scope](#step-1-define-project-goal-and-scope)
-  * [Step 2: Collect and prepare the data](#step-2-collect-and-prepare-the-data)
-  * [Step 3: Analyze the data with SQL](#step-3-analyze-the-data-with-sql)
-  * [Step 4: Visualize the data with Tableau](#step-4-visualize-the-data-with-tableau)
-  * [Step 5: Share and present your results](#step-5-share-and-present-your-results)
+  * [1. Define project goal and scope](#1-define-project-goal-and-scope)
+  * [2. Collect and prepare the data](#2-collect-and-prepare-the-data)
+  * [3. Analyze the data with SQL](#3-analyze-the-data-with-sql)
+  * [4. Visualize the data with Tableau](#4-visualize-the-data-with-tableau)
+  * [5. Share and present your results](#5-share-and-present-your-results)
 - [Conclusion](#conclusion)
 - [Limitations](#limitations)
 - [Disclaimer](#disclaimer)
@@ -24,7 +24,7 @@ The Iowa Liquor Sales dataset is a large and comprehensive dataset available on 
 
 ## Methodology
 
-### Step 1: Define project goal and scope
+### 1. Define project goal and scope
 
 1.	What are the top 5 best-selling liquor across all stores in Iowa?
 2.	What are the top 5 stores in terms of revenue?
@@ -32,7 +32,7 @@ The Iowa Liquor Sales dataset is a large and comprehensive dataset available on 
 4.	What is the average price per unit of alcohol sold across all stores in Iowa?
 5.	What is the total sales revenue and sales volume for each year in the dataset?
 
-### Step 2: Collect and prepare the data
+### 2. Collect and prepare the data
 
 The Iowa Liquor Sales dataset was accessed on BigQuery and imported into a new project. The following steps were taken to clean and prepare the data:
 
@@ -41,11 +41,11 @@ The Iowa Liquor Sales dataset was accessed on BigQuery and imported into a new p
 
 After cleaning and preparing the Iowa Liquor Sales dataset on BigQuery, it was exported to Excel for further analysis and formatting.
 
-### Step 3: Analyze the data with SQL
+### 3. Analyze the data with SQL
 
 After exporting the cleaned Iowa Liquor Sales dataset to Excel, I developed a plan to answer questions and gain further insights. This plan helped me prioritize and organize my questions to create interactive visualizations using Tableau.
 
-### Step 4: Visualize the data with Tableau
+### 4. Visualize the data with Tableau
 
 I initiated the visualization phase in Tableau by creating various worksheets and an interactive dashboard. The visualizations were designed to represent the answers to the questions and to provide insights that would assist in the decision-making process.
 
@@ -55,7 +55,7 @@ I initiated the visualization phase in Tableau by creating various worksheets an
 
 By using interactive features such as filters and actions, the dashboard facilitated the exploration of the data in a more intuitive and efficient manner.
 
-### Step 5: Share and present your results
+### 5. Share and present your results
 
 If this project was a real business task I would share my findings with colleagues to gather feedback and identify any areas for improvement. I would discuss potential areas for further analysis and visualizations that could help provide additional insights.
 
