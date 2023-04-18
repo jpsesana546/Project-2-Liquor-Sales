@@ -48,7 +48,7 @@ After exporting the cleaned Iowa Liquor Sales dataset to Excel, I developed a pl
 ### 4. Visualize the data with Tableau
 
 I initiated the visualization phase in Tableau by creating various worksheets and an interactive dashboard. The visualizations were designed to represent the answers to the questions and to provide insights that would assist in the decision-making process.
-
+* Tableau: [Dashboard](https://public.tableau.com/views/IowaSalesAnalysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/117879912/231914571-de9de18b-2cfd-41c2-8c8b-8a9da8acda26.png" alt="Iowa Dashboard" width="900" height="900">
 </div>
